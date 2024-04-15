@@ -41,7 +41,8 @@ End the program
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/NSArjun/Circulate-the-values-of-N-variables/assets/148233801/1addc9e2-2d97-4611-a1fa-c72aaa7793fe)
+
 
 
 ## Result:
